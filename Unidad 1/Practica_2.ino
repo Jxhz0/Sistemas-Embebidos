@@ -16,12 +16,10 @@ void loop() {
   float h = dht.readHumidity(); 
   float t = dht.readTemperature();
   float f = dht.readTemperature(true);
-
   if (isnan(h) || isnan(t) || isnan(f)) {
     lcd.println("Failed to read from DHT sensor!");
     return;
   }
-  
   lcd.clear(); 
   lcd.setCursor(0, 0);
   lcd.print("Humi: ");
@@ -31,5 +29,4 @@ void loop() {
   lcd.print("Temp: ");
   lcd.print(t);
   lcd.print(" *C ");
-
 }
