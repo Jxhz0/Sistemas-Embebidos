@@ -2,4 +2,5 @@
 
 Enlace: https://youtu.be/IqJn31LM5SA
 
-[![](https://markdown-videos.deta.dev/youtube/IqJn31LM5SA)](https://youtu.be/IqJn31LM5SA)
+https://github.com/user-attachments/assets/f1d0f7f5-fed0-47ec-ad53-a93bf0ad589a
+
